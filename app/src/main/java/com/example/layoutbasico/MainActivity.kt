@@ -69,7 +69,7 @@ class MainActivity : ComponentActivity() {
    }
 }
 
-
+ 
 @Composable
 fun SearchBar(
    query: String,
